@@ -45,7 +45,7 @@
 > * Для антети якак використовується у РЕБ пристрої КСХ на всьому діапазоні має бути не більше 2(краще меньше) у противному випадку така антена не буде ефективною
 
 
-# Додаткові матеріали
+## Додаткові матеріали
 * [Що таке векторний аналізатор електричних ланцюгів](https://www.tehencom.com/Categories/Network_Analyzers/Basics/Network_Analyzers_Basics-u.htm)
 * [Основні характеристики і типи польових антен](https://sprotyvg7.com.ua/wp-content/uploads/2023/05/Osnovni-harakterystyky-anten_ukr.pdf)
 * [Поляризація антени або поляризація](https://uk.fmuser.net/news/2014-3-15/869.html)
